@@ -1,0 +1,5 @@
+{
+  "name": "GitCast: GitHub Profile Podcaster",
+  "description": "Generates a personalized podcast-style audit of your GitHub profile to help you identify strengths and areas for improvement, powered by AI.",
+  "requestFramePermissions": []
+}
