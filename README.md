@@ -34,3 +34,4 @@ Analyze your GitHub repositories and generate AI-powered podcasts and presentati
 - 📈 Generate interactive HTML presentation slides for each repository
 - 🔍 Search and filter by language
 - ⚡ Fast loading with lazy on-demand details fetching
+
